@@ -15,7 +15,7 @@ Embed the badge in a GitHub README with Markdown:
 Alternatively you can also embed it with HTML:
 
 ```html
-<a href="https://spectrum.chat/<mycommunity">
+<a href="https://spectrum.chat/<mycommunity>">
   <img alt="Join the community on Spectrum" src="https://withspectrum.github.io/badge/badge.svg" />
 </a>
 ```
