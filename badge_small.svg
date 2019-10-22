@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="139" height="20" viewBox="0 0 139 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="badge">
+        <g id="background">
+            <g id="left">
+                <path d="M0,3C0,1.343 1.343,0 3,0L56,0L56,20L3,20C1.343,20 0,18.657 0,17L0,3Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+                <rect x="55" y="0" width="1" height="20" style="fill-opacity:0.3;fill-rule:nonzero;"/>
+            </g>
+            <g id="right">
+                <path d="M139,3C139,1.343 137.7,0 136.1,0L56,0L56,20L136.1,20C137.7,20 139,18.657 139,17L139,3Z" style="fill:url(#_Linear2);fill-rule:nonzero;"/>
+                <rect x="56" y="0" width="1" height="20" style="fill:#03aafb;fill-opacity:0.3;fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="foreground" fill='#fff' font-size='11' font-family='DejaVu Sans, Verdana, Geneva, sans-serif'>
+            <text x="23" y="14">chat</text>
+            <text x="63" y="14">on spectrum</text>
+            <path id="icon" d="M16,9.345C16,12.063 15.583,12.69 11,12.69C10.881,12.69 10.764,12.69 10.65,12.689C10.55,12.688 10.452,12.687 10.356,12.685C10.355,12.685 10.355,12.685 10.355,12.686L8.415,13.929C8.126,14.114 7.739,13.915 7.739,13.581L7.739,12.447C7.739,12.446 7.738,12.445 7.737,12.445C6.191,12.067 6,11.185 6,9.345C6,6.627 6.417,6 11,6C15.583,6 16,6.627 16,9.345ZM8.826,10.181C9.186,10.181 9.478,9.9 9.478,9.554C9.478,9.208 9.186,8.927 8.826,8.927C8.466,8.927 8.174,9.208 8.174,9.554C8.174,9.9 8.466,10.181 8.826,10.181ZM13.174,10.181C13.534,10.181 13.826,9.9 13.826,9.554C13.826,9.208 13.534,8.927 13.174,8.927C12.814,8.927 12.522,9.208 12.522,9.554C12.522,9.9 12.814,10.181 13.174,10.181ZM11.652,9.554C11.652,9.9 11.36,10.181 11,10.181C10.64,10.181 10.348,9.9 10.348,9.554C10.348,9.208 10.64,8.927 11,8.927C11.36,8.927 11.652,9.208 11.652,9.554Z"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.22465e-15,20,-20,1.22465e-15,56,-1.22465e-15)"><stop offset="0" style="stop-color:#4b515f;stop-opacity:1"/><stop offset="1" style="stop-color:#171a21;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0180038,20,-20.7595,0.0173451,134.707,0.0532792)"><stop offset="0" style="stop-color:#7b16ff;stop-opacity:1"/><stop offset="0.17" style="stop-color:#7b16ff;stop-opacity:1"/><stop offset="1" style="stop-color:#3818e5;stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

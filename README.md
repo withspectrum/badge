@@ -2,7 +2,7 @@
 
 "Join the community on Spectrum"-badge for READMEs on GitHub
 
-![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)
+![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg) ![Chat on Spectrum](https://withspectrum.github.io/badge/badge_small.svg)
 
 ## Usage
 
@@ -20,7 +20,9 @@ Alternatively you can also embed it with HTML:
 </a>
 ```
 
-> **Note:** Make sure you replace `<mycommunity>` with your communities' slug in both of these!
+> **Notes:**
+> - Make sure you replace `<mycommunity>` with your communities' slug in both of these!
+> - There is also a small version of the badge. Replace `https://withspectrum.github.io/badge/badge.svg` by `https://withspectrum.github.io/badge/badge_small.svg` to use it.
 
 ## License
 
